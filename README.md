@@ -1,8 +1,8 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+https://github.com/shubhamdugar20/QUICKCRAVE-FULL-STACK/assets/50994665/9114a320-0d3e-4811-9f41-b163cec3a7b6
+
+
 
 In the project directory, you can run:
 
